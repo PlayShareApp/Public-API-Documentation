@@ -19,7 +19,7 @@ exampleSocket.onmessage = (event) => {
 | 0 | VIDEO_END | { CHANGE_USER } |
 | 1 | PLAY | { CHANGE_USER } |
 | 2 | PAUSE | { CHANGE_USER } |
-| 3 | BUFFERING | { TIME, CHANGE_USER } |
+| 3 | CHANGE_TIME | { TIME, CHANGE_USER } |
 | 1010 | HELLO_WORLD | { id } |
 | 1002 | JOIN_ROOM | { NEW_USER } |
 | 1003 | JOIN_ROOM_SUCCESS | { ROOM_ID } |
@@ -78,7 +78,7 @@ Gets send to Client when a User succesfully calls the Video PLAY/PAUSE Route.
 }
 ```
 
-## BUFFERING
+## CHANGE_TIME (form. BUFFERING)
 ### **Description**
 Gets send to Client when a User succesfully calls the BUFFERING Route. Same Route is used to change Video Time.
 ### Example
