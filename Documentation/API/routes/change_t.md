@@ -13,7 +13,7 @@ Used to change the current timestamp of a Video.
 {
     "room_id": UUIDv4,
     "user_id": UUIDv4,
-    "time": "122"
+    "time": FLOAT_IN_SECONDS
 }
 ```
 
