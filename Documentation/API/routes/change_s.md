@@ -35,8 +35,8 @@ Play
 
 ```json
 {
-    status: 200,
-    message: "Success"
+    "status": 200,
+    "message": "Success"
 }
 ```
 
@@ -50,9 +50,9 @@ Play
 
 ```json
 {
-    status: 500,
-    message: "Unknown Error",
-    errID: errID
+    "status": 500,
+    "message": "Unknown Error",
+    "errID": errID
 }
 ```
 
@@ -66,8 +66,8 @@ Play
 
 ```json
 {
-    status: 400,
-    message: "Missing Header"
+    "status": 400,
+    "message": "Missing Header"
 }
 ```
 
@@ -81,8 +81,8 @@ Play
 
 ```json
 {
-    status: 400,
-    message: "Room Does Not Exist"
+    "status": 400,
+    "message": "Room Does Not Exist"
 }
 ```
 
@@ -96,7 +96,7 @@ Play
 
 ```json
 {
-    status: 400,
-    message: "User Not In Room"
+    "status": 400,
+    "message": "User Not In Room"
 }
 ```

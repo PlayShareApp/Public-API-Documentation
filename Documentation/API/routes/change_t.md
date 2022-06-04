@@ -25,8 +25,8 @@ Used to change the current timestamp of a Video.
 
 ```json
 {
-    status: 200,
-    message: "Success"
+    "status": 200,
+    "message": "Success"
 }
 ```
 
@@ -40,9 +40,9 @@ Used to change the current timestamp of a Video.
 
 ```json
 {
-    status: 500,
-    message: "Unknown Error",
-    errID: errID
+    "status": 500,
+    "message": "Unknown Error",
+    "errID": errID
 }
 ```
 
@@ -56,8 +56,8 @@ Used to change the current timestamp of a Video.
 
 ```json
 {
-    status: 400,
-    message: "Missing Header"
+    "status": 400,
+    "message": "Missing Header"
 }
 ```
 
@@ -71,8 +71,8 @@ Used to change the current timestamp of a Video.
 
 ```json
 {
-    status: 400,
-    message: "Room Does Not Exist"
+    "status": 400,
+    "message": "Room Does Not Exist"
 }
 ```
 
@@ -86,7 +86,7 @@ Used to change the current timestamp of a Video.
 
 ```json
 {
-    status: 400,
-    message: "User Not In Room"
+    "status": 400,
+    "message": "User Not In Room"
 }
 ```

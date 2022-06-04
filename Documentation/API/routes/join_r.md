@@ -24,8 +24,8 @@ Used to join a room.
 
 ```json
 {
-    status: 200,
-    message: "Success"
+    "status": 200,
+    "message": "Success"
 }
 ```
 
@@ -39,8 +39,8 @@ Used to join a room.
 
 ```json
 {
-    status: 400,
-    message: "User Not Generated"
+    "status": 400,
+    "message": "User Not Generated"
 }
 ```
 
@@ -52,8 +52,8 @@ Used to join a room.
 
 ```json
 {
-    status: 500,
-    message: "Unknown Error",
-    errID: errID
+    "status": 500,
+    "message": "Unknown Error",
+    "errID": errID
 }
 ```

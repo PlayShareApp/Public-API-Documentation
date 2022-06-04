@@ -21,8 +21,8 @@ Used to create a room.
 
 ```json
 {
-    status: 200,
-    message: "Success"
+    "status": 200,
+    "message": "Success"
 }
 ```
 
@@ -36,8 +36,8 @@ Used to create a room.
 
 ```json
 {
-    status: 500,
-    message: "Unknown Error",
-    errID: errID
+    "status": 500,
+    "message": "Unknown Error",
+    "errID": errID
 }
 ```
