@@ -28,7 +28,7 @@ exampleSocket.onmessage = (event) => {
 
 ## VIDEO CHANGE
 ### **Description**
-Gets send to Client when a User succesfully calls the Video Change Route.
+Gets send to Client when a User successfully calls the Video Change Route.
 
 ### Example
 ```json
