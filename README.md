@@ -11,7 +11,7 @@
 
 # About
 
-We at PlayShare don't hide our APIs! Help us improve by breaking our Stuff, finding Problems or just build new awseome Stuff on our Platform! Just remember to have fun.
+We at PlayShare don't hide our APIs! Help us improve by breaking our Stuff, finding Problems or just build new awesome Stuff on our Platform! Just remember to have fun.
 
 # Index
 ## WIP
