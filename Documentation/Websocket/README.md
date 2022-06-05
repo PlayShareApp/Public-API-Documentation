@@ -1,7 +1,7 @@
 # Playshare Developer Documentation
 
 # Socket Responses
-Socket will respond with a String in JSON Object. Incomming String should therefore be parsed using the [parse method](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse) on the JSON Object.
+Socket will respond with a String in JSON Object. Incoming String should therefore be parsed using the [parse method](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse) on the JSON Object.
 
 ### Example
 ```js
