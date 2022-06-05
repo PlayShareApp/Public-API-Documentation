@@ -35,7 +35,10 @@ Gets send to Client when a User successfully calls the Video Change Route.
 {
 "ID": -1,
 "METHOD_NAME": "VIDEO_CHANGE",
-"PARAMS": {"CHANGE_USER": "58652229-dc4f-4aed-8396-51042ecdc564"}
+"PARAMS": {
+    "CHANGE_USER": "58652229-dc4f-4aed-8396-51042ecdc564"
+    "VIDEO_ID": "iik25wqIuFo"
+    }
 }
 ```
 
