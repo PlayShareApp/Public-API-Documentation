@@ -135,7 +135,9 @@ Gets send to Client from Server to Inform the client about succesfully joining a
 "ID": 1003,
 "METHOD_NAME": "JOIN_ROOM_SUCCESS",
 "PARAMS": {
-    "ROOM_ID": "178ccba1-e03c-4f8b-b5df-e77c3f69834d"
+    "ROOM_ID": "178ccba1-e03c-4f8b-b5df-e77c3f69834d",
+    "CURRENT_TIME": 0,
+    "CURRENT_VIDEO": ""
     }
 }
 ```
