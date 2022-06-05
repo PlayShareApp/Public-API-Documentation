@@ -14,7 +14,8 @@ Pause
 {
     "room_id": "UUIDv4",
     "user_id": "UUIDv4",
-    "state": "true"
+    "state": "true",
+    "current_time": TIME_IN_S
 }
 ```
 
@@ -23,7 +24,8 @@ Play
 {
     "room_id": "UUIDv4",
     "user_id": "UUIDv4",
-    "state": "false"
+    "state": "false",
+    "current_time": TIME_IN_S
 }
 ```
 
