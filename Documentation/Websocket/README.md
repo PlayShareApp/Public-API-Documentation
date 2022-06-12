@@ -28,7 +28,7 @@ exampleSocket.onmessage = (event) => {
 
 ## VIDEO CHANGE
 ### **Description**
-Gets send to Client when a User successfully calls the Video Change Route.
+Gets sent to the Client when a User successfully calls the Video Change Route.
 
 ### Example
 ```json
@@ -44,7 +44,7 @@ Gets send to Client when a User successfully calls the Video Change Route.
 
 ## VIDEO END
 ### **Description**
-Gets send to Client when a User succesfully calls the Video End Route.
+Gets sent to the Client when a User successfully calls the Video End Route.
 
 ### Example
 ```json
@@ -57,7 +57,7 @@ Gets send to Client when a User succesfully calls the Video End Route.
 
 ## PLAY
 ### **Description**
-Gets send to Client when a User succesfully calls the Video PLAY/PAUSE Route.
+Gets sent to the Client when a User successfully calls the Video PLAY/PAUSE Route.
 
 ### Example
 ```json
@@ -70,7 +70,7 @@ Gets send to Client when a User succesfully calls the Video PLAY/PAUSE Route.
 
 ## PAUSE
 ### **Description**
-Gets send to Client when a User succesfully calls the Video PLAY/PAUSE Route.
+Gets sent to the Client when a User successfully calls the Video PLAY/PAUSE Route.
 
 ### Example
 ```json
@@ -83,7 +83,7 @@ Gets send to Client when a User succesfully calls the Video PLAY/PAUSE Route.
 
 ## CHANGE_TIME (form. BUFFERING)
 ### **Description**
-Gets send to Client when a User succesfully calls the BUFFERING Route. Same Route is used to change Video Time.
+Gets sent to Client when a User successfully calls the BUFFERING Route. The same Route is used to change Video Time.
 ### Example
 ```json
 {
@@ -97,7 +97,7 @@ Gets send to Client when a User succesfully calls the BUFFERING Route. Same Rout
 
 ## HELLO_WORLD
 ### **Description**
-Gets send to Client from Server on Initial WebSocket connection.
+Gets sent to Client from Server on Initial WebSocket connection.
 
 ### Example
 ```json
@@ -112,7 +112,7 @@ Gets send to Client from Server on Initial WebSocket connection.
 
 ## JOIN ROOM
 ### **Description**
-Gets send to Client from Server to Inform about a new user joining the room this user is registerd to.
+Gets send to Client from Server to Inform about a new user joining the room this user is registered to.
 
 ### Example
 ```json
@@ -127,7 +127,7 @@ Gets send to Client from Server to Inform about a new user joining the room this
 
 ## JOIN ROOM SUCCESS
 ### **Description**
-Gets send to Client from Server to Inform the client about succesfully joining a room.
+Gets sent to Client from Server to Inform the client about successfully joining a room.
 
 ### Example
 ```json
@@ -144,7 +144,7 @@ Gets send to Client from Server to Inform the client about succesfully joining a
 
 ## CHANGE USER NAME
 ### **Description**
-Gets send to Client from Server to Inform the client about succesfully joining a room.
+Gets sent to Client from Server to Inform the client about successfully joining a room.
 
 ### Example
 ```json
