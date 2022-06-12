@@ -23,4 +23,4 @@ For minor issues, create an issue in this repository. For major issues (especial
 
 # Terms and Conditions
 We are constantly working to improve our platform. We're built on Free Software and thus want to keep our APIs free as well. For this we appeal to developers to test their software extensively and to ensure that they do not make unnecessary requests to our service, for example. 
-If you use our services, we ask you to acknowledge this in a clearly visible location. For this we [provide small banners and icons](https://github.com/PlayShareApp/Public-resourcestree/main/implemention-banners).
+If you use our services, we ask you to acknowledge this in a clearly visible location. For this we [provide small banners and icons](https://github.com/PlayShareApp/Public-resources/tree/main/implementation%20banners).
