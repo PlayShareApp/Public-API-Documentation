@@ -21,8 +21,12 @@ Used to create a room.
 
 ```json
 {
-    "status": 200,
-    "message": "Success"
+    "roomID": "9ca9e8cc-d8f6-4c6b-a097-025d380069a5",
+    "users": [],
+    "params": {
+        "current_video": "",
+        "time": 0
+    }
 }
 ```
 
